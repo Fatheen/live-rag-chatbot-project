@@ -1,0 +1,5 @@
+[safe]
+	directory = /home/jovyan
+[user]
+	name = Edwin Shen
+	email = edwins3@illinois.edu

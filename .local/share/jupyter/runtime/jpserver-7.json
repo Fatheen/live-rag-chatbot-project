@@ -1,0 +1,13 @@
+{
+  "base_url": "/user/edwins3@illinois.edu/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 7,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "8e16906e6e79410fa42f2caef53d6b86",
+  "url": "http://jupyter-edwins3-illinois-edu:8888/user/edwins3@illinois.edu/",
+  "version": "2.13.0"
+}
