@@ -20,4 +20,4 @@ Access the UI
 https://jupyter.gpu.atlas.illinois.edu/user/<NetID@illinois.edu>/proxy/8501/?redirects=1
 
 50 test questions:
-https://docs.google.com/document/d/1i_jmUYqEdjwQX0v2oM96r2h2Dny4aZDDqqzz7vBJVDA/edit?usp=sharing
+https://docs.google.com/document/d/1i_jmUYqEdjwQX0v2oM96r2h2Dny4aZDDqqzz7vBJVDA/edit?usp=sharin
